@@ -1,0 +1,27 @@
+.food-display {
+    padding: 20px;
+    text-align: center;
+}
+
+.food-display h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.food-display p {
+    font-size: 1.2rem;
+    color: #666;
+}
+
+.food-display-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.food-display-list .food-item {
+    flex: 1 1 calc(33.333% - 40px); /* Adjust based on the number of columns */
+    box-sizing: border-box;
+}

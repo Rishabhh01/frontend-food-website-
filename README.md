@@ -1,16 +1,16 @@
-# 🍽️ Swadfiy – A Modern Food Ordering Website
+# Swadfiy – A Modern Food Ordering Website
 
 Swadfiy is a sleek, modern, and responsive food ordering platform built with **React.js**, designed to deliver a delightful user experience for browsing, selecting, and ordering food items with ease. It features a clean design, intuitive navigation, and real-time cart management – making the food ordering process seamless and engaging.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project showcases a frontend-focused implementation of a food ordering website using modern web technologies. The goal is to provide a user-friendly interface with scalable architecture, optimized performance, and mobile responsiveness.
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🛍️ **Interactive Food Menu** – Explore delicious food items by categories with visuals and pricing.
 - 🛒 **Real-Time Cart System** – Add, remove, or update items in the cart with dynamic price calculation.
@@ -22,7 +22,7 @@ This project showcases a frontend-focused implementation of a food ordering webs
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category    | Technology                                |
 |-------------|--------------------------------------------|
@@ -32,12 +32,8 @@ This project showcases a frontend-focused implementation of a food ordering webs
 | **Icons**    | React Icons / Font Awesome                |
 
 ---
-
-## 🧪 Getting Started
-
-### 📦 Installation
-
+## Installation
 ```bash
-git clone https://github.com/your-username/swadfiy.git
-cd swadfiy
+git clone https://github.com/Rishabhh01/frontend-food-website-.git
+cd frontend-food-website-
 npm install

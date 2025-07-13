@@ -54,3 +54,11 @@ npm start
 └── index.js # Entry point for React DOM rendering
 ```
 ---
+## Screenshots
+<img width="1500" height="700" alt="Screenshot readme" src="https://github.com/user-attachments/assets/598c426f-5d6c-487b-9a27-8d5e37c3f54a" />
+
+---
+
+## Author
+**Rishabh Chauhan**  
+Email: rishabhc2234@gmail.com

@@ -37,3 +37,20 @@ This project showcases a frontend-focused implementation of a food ordering webs
 git clone https://github.com/Rishabhh01/frontend-food-website-.git
 cd frontend-food-website-
 npm install
+```
+---
+## Run the App
+```
+npm start
+```
+---
+## 📁 Project Structure
+```
+/src
+│
+├── components/ # Reusable UI components (Header, FoodCard, CartItem, etc.)
+├── assets/ # Images, icons, and static resources
+├── App.js # Root component with routing logic
+└── index.js # Entry point for React DOM rendering
+```
+---
